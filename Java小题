@@ -1,1 +1,3 @@
+java object默认的基本方法中没有copy()，含有如下方法：
+getClass(), hashCode(), equals(), clone(), toString(), notify(), notifyAll(),  wait(), finalize()
 
